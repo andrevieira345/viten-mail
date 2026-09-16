@@ -252,6 +252,7 @@ Initially stored on a separate area of the 1 TB disk. This protects against huma
 ## Repository Structure
 
 \```
+
 viten-mail/
 ├── backend/
 │   ├── app/
@@ -269,6 +270,7 @@ viten-mail/
 ├── scripts/
 ├── docs/
 └── tests/
+
 \```
 
 **Branch strategy:**
